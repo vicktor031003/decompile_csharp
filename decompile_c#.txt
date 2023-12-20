@@ -1,0 +1,15 @@
+We have an obfuscated C# program that doesn't compile well with dotnetpeek but want someone with experience to decompile it using some other techniques that will allow inspection.
+
+
+
+Just supply decompiled code as a result. C# program shouldn't have problems being decompiled but again better with someone with experience to decompile it for us.
+
+
+
+Inputs: .zip file with compiled C# program
+outputs: source code with minimal obfuscation (objects if not recovered are ok)
+Additional outputs: see if can figure out what obfuscator was used
+
+sooner is better but whenever you have time. we have many other projects if successful
+
+https://github.com/DarkObb/DeObfuscar-Static
